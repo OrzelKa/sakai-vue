@@ -1,0 +1,15 @@
+{
+    "login": {
+      "title": "Login Panel",
+      "email.label": "Email222",
+      "password": "Password",
+      "remember": "Remember me",
+      "forgot": "Forgot password?",
+      "signIn": "Sign In"
+    },
+    "messages": {
+      "loginSuccess": "✅ Logged in successfully!",
+      "loginError": "❌ An error occurred during login."
+    }
+  }
+  

@@ -1,0 +1,49 @@
+    {
+        "login": {
+            "title": "Panel logowania",
+            "email": {
+            "label": "Login lub email",
+            "input": {
+                "placeholder": "Wpisz login lub email"
+            }
+            },
+            
+            "password": {
+            "label": "Podaj hasło",
+            "input": {
+                "placeholder": "Wprowadź hasło"
+            }
+            },
+            "remember": "Zapamiętaj mnie",
+            "forgot": "Zapomniałeś hasła?",
+            "signIn": "Zaloguj się",
+            "toastify": {
+            "loginSuccess": "✅ Zalogowano pomyślnie!",
+            "loginError": "❌ Wystąpił błąd podczas logowania."
+            },
+            "messages": {
+                "emailRequired": "Login lub email jest wymagany!",
+                "passwordMinLength": "Hasło musi mieć minimum {min} {chars}.",
+                "chars": "znaków"
+            }
+        },
+        "topbar": {
+            "user_panel": "Panel użytkownika",
+            "profile": "Profil",
+            "settings": "Ustawienia",
+            "logout": "Wyloguj się"
+        },
+        "settings": {
+            "settings": "Ustawienia",
+            "description_top": "Konfiguracja systemu i zarządzanie ustawieniami",
+            "users": {
+                "error": {
+                    "username": "Użytkownik o takim loginie już istnieje",
+                    "email": "Użytkownik o takim email już istnieje",
+                    "email_null": "Nie podano email użytkownika",
+                    "role_id": "Nie wybrano uprawnień dla tworzonego użytkownika"
+                }
+            }
+        }
+    }
+  
